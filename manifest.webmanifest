@@ -1,0 +1,10 @@
+{
+  "name": "Checkei",
+  "short_name": "Checkei",
+  "lang": "pt-PT",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F2F3F6",
+  "theme_color": "#2F47D6",
+  "icons": [{ "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }]
+}
